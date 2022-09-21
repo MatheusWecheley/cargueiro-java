@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cargueiro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cargueiro_jar</output-path>
+    <root id="archive" name="Cargueiro.jar">
+      <element id="module-output" name="Cargueiro" />
+    </root>
+  </artifact>
+</component>
